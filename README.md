@@ -2,7 +2,7 @@
 
 A high-fidelity, intelligent habit tracking application built with **React 19**, **Tailwind CSS 4**, and **Google Gemini AI**. This application is designed to be fully frontend-driven, using local storage for persistence and the Gemini API for personalized habit coaching and analysis.
 
-![AI Habit Tracker Preview](public/icons.svg) <!-- Replace with a real screenshot if available -->
+![AI Habit Tracker Preview](public/logo.png) <!-- Replace with a real screenshot if available -->
 
 ## 🚀 Key Features
 
